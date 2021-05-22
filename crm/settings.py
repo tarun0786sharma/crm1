@@ -24,7 +24,7 @@ SECRET_KEY = 'h^i-d*oz9q16+5+a8#j@cjjf_(68sj7h4hsnut0#vaa6!7p0a1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['git.heroku.com/nameless-falls-56354.git', '127.0.0.1']
+ALLOWED_HOSTS = ['crmbytarun.herokuapp.com', '127.0.0.1']
 
 # Application definition
 
