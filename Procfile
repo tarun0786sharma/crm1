@@ -1,1 +1,1 @@
-web: gunicorn acccounts.wsgi
+web: gunicorn crm.wsgi
