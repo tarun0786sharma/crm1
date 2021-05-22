@@ -1,0 +1,1 @@
+web: gunicorn acccounts.wsgi
